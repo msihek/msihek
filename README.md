@@ -1,10 +1,6 @@
 ## My projects 😉:
 
 
-**Nedo projects:**
-
- - [CheckPunish [lua]](https://github.com/msihek/CP)
-
 **Finished project:**
 
  - [AutoRP [lua]](https://github.com/msihek/AutoRP)
