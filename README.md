@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FDA9A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+✨;Exploring+the+World+of+Code+🌍;Feel+Free+to+Browse+My+Projects+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FDA9A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+✨;Exploring+the+World+of+Code+🌍;Good+Luck+Bro+😎" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,7 +27,7 @@ Personal Computer Remote Control Bot
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"> 
-  <img src="https://img.shields.io/badge/GoLang-white" alt="Go"> 
+  <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GoLang"> 
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </div>
 
