@@ -1,23 +1,18 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FDA9A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+✨;Exploring+the+World+of+Code+🌍;Good+Luck+Bro+😎" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200px" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140px" alt="Coding GIF">
 </div>
+
 ---
-
-# 👾 My Projects:
-
 ## **✨ Finished Project**
 ### 🔗 [AutoRP [Lua]](https://github.com/msihek/AutoRP)  
-AutoRP Tool
-
 ---
 
 ## **🚧 Projects In Which I Am Involved**
 ### 🔗 [YAW [Python]](https://github.com/Revavi/PCRCB)  
-Personal Computer Remote Control Bot
-
 ---
 
 <div align="center">
