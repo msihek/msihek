@@ -1,7 +1,3 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FDA9A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+✨;Exploring+the+World+of+Code+🌍;Good+Luck+Bro+😎;Have+A+Good+Day+😊;msihek" alt="Typing SVG" />
-</div>
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140px" alt="Coding GIF">
 </div>
@@ -11,8 +7,6 @@
 ### 🔗 [AutoRP [Lua]](https://github.com/msihek/AutoRP)  
 ---
 
-## **🚧 Projects In Which I Am Involved**
-### 🔗 [YAW [Python]](https://github.com/Revavi/PCRCB)  
 ---
 
 <div align="center">
@@ -27,7 +21,7 @@
 # 💡 About Me
 
 Hi! I'm passionate about coding, exploring new technologies, and contributing to impactful projects. Here's what I specialize in:  
-- **Languages**: Python, GoLang, Lua
+- **Languages**: Python, Lua
 - **Tools**:VS Code 
 
 ---
